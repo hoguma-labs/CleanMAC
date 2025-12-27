@@ -7,14 +7,14 @@
             <pubDate>Sun, 28 Dec 2025 00:00:00 +0900</pubDate>
             <description><![CDATA[시스템 안정성 향상 및 업데이트 로직 개선이 포함된 버전입니다.]]></description>
             <enclosure 
-                url="https://github.com/hoguma-labs/CleanMAC/releases/download/v1.0.1/HOGUMA_CleanMAC_v1.0.1.dmg"
+                url="https://github.com/hoguma-labs/CleanMAC/releases/download/v1.0.1/HOGUMA_CleanMAC_v1.0.1.pkg"
                 sparkle:shortVersionString="1.0.1" 
                 sparkle:version="2"
-                sparkle:edSignature="2n/jRyhCHRvjuLskHoSrb7OKkAfc5gnTC3JAFqnjMky7swsEdWTDE+xdQYHqv4+T3274UUTlz29dyeq10K+eCA=="
+                sparkle:edSignature="X0MUGJ4yUMI7oqMOch5FtvSlUZj/+99BmcmJDZ7tqXiMcCfIbYBNKYPNSR+DWIKLwFGoctliEzy2bt2oRNmiAg=="
                 sparkle:minimumSystemVersion="14.0"
                 sparkle:os="macos"
                 type="application/octet-stream"
-                length="14719398"/>
+                length="14145353"/>
         </item>
     </channel>
 </rss>
