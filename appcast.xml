@@ -5,16 +5,16 @@
         <item>
             <title>호구마 클린맥 1.0.1</title>
             <pubDate>Sun, 28 Dec 2025 00:00:00 +0900</pubDate>
-            <description><![CDATA[테스트입니다.]]></description>
+            <description><![CDATA[시스템 안정성 향상 및 업데이트 로직 개선이 포함된 버전입니다.]]></description>
             <enclosure 
                 url="https://github.com/hoguma-labs/CleanMAC/releases/download/v1.0.1/HOGUMA_CleanMAC_v1.0.1.dmg"
                 sparkle:shortVersionString="1.0.1" 
                 sparkle:version="2"
-                sparkle:edSignature="4Zli8kAH1ToxJYAfqjtV7hDywGZQtBDY6ldFAr/lqFhdTYDz4/cr6ny7DjKdAwLgP8scdLalvJ3b6/rGCUi8CA=="
+                sparkle:edSignature="2n/jRyhCHRvjuLskHoSrb7OKkAfc5gnTC3JAFqnjMky7swsEdWTDE+xdQYHqv4+T3274UUTlz29dyeq10K+eCA=="
                 sparkle:minimumSystemVersion="14.0"
                 sparkle:os="macos"
                 type="application/octet-stream"
-                length="14719356"/>
+                length="14719398"/>
         </item>
     </channel>
 </rss>
